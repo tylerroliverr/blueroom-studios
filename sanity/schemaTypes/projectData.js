@@ -39,6 +39,11 @@ export const projectData = {
         title: "Project Developed By",
         name: "projectDevelopedBy",
         type: "string"
+      },
+      {
+        title: "Project Category",
+        name: "projectCategory",
+        type: "string"
       }
     ]
   }
